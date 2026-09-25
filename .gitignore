@@ -80,3 +80,6 @@ DerivedDataCache/*
 
 # Unreal upgrade log
 UpgradeLog.htm
+
+# Local Serena project files
+.serena/
